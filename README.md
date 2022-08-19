@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @pray3m
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Talking about Personal Stuffs:
+
+🌱 I’m currently learning Web Development
+
+👨‍💻 My Portfolio 
+
+📫 How to reach me prem.gtm9@gmail.com
+
+📝 My Resume
 
 
 ## 🌐 Socials:
