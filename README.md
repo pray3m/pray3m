@@ -1,6 +1,6 @@
 Talking about Personal Stuffs:
 
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning **Web Development**
 
 👨‍💻 My Portfolio 
 
