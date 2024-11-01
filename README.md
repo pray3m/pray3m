@@ -12,7 +12,6 @@
 
 ###
 
-
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning **NextJs, TailwindCSS, NodeJs, Prisma, TypeScript**
@@ -22,6 +21,7 @@
 <br/>
 
 ## 💻 Tech Stack:
+
 <!---
 Edit the language and tools from -> https://gprm.itsvg.in/
 --->
@@ -37,7 +37,7 @@ Edit the language and tools from -> https://gprm.itsvg.in/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pray3m&theme=dracula" alt="pray3m" /></p>
 <p>
-    <img align="center"
+    <img align="" width="500px"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pray3m&show_icons=true&locale=en&theme=dracula"
         alt="pray3m"/>
 </p>
