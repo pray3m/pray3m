@@ -3,15 +3,15 @@ pray3m/pray3m is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-### <h2 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">Prem Gautam</a> 〽️ </h2>
+### <h3 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">Prem Gautam</a> 〽️ </h3>
 
-<h3 align="center">  Full Stack Developer | MERN Specialist</h3>
+<h5 align="center">  Full Stack Developer | MERN Specialist</h5>
 <div align="center">
 
 <!--
   <img width="350" src=" https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Banner Image"/> -->
 
-  <img width="250" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
+  <img width="200" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
  
   <br/> 
   
