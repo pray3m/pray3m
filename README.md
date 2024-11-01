@@ -1,48 +1,118 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-<br/>
-  
- [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
- 
-</div>
-
-###
-
-<h2 align="center">नमस्ते (Namaste), I am <a href="https://prem.dev/" target="_blank">Prem Gautam</a> 〽️ </h2>
-
-###
-
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning **NextJs, TailwindCSS, NodeJs, Prisma, TypeScript**
-
-- 📝 [My Resume](loading)
-
-<br/>
-
-## 💻 Tech Stack:
-
-<!---
-Edit the language and tools from -> https://gprm.itsvg.in/
---->
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br/> <br/>
-
-## 📊 GitHub Stats:
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pray3m&show_icons=true&locale=en&theme=dracula"
-        alt="pray3m" />
-</p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pray3m&theme=dracula" alt="pray3m" /></p>
-<p>
-    <img align="" width="500px"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=pray3m&show_icons=true&locale=en&theme=dracula"
-        alt="pray3m"/>
-</p>
-
 <!---
 pray3m/pray3m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### <h2 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">Prem Gautam</a> 〽️ </h2>
+
+<h3 align="center">  Full Stack Developer | MERN Specialist</h3>
+<div align="center">
+
+<!--
+  <img width="350" src=" https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Banner Image"/> -->
+
+  <img width="250" src=" https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
+ 
+  <br/> 
+  
+  [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
+
+---
+
+## 🌟 About Me
+
+I'm a software engineer focused on building scalable web applications and intuitive user experiences. Currently working with the MERN stack and exploring cloud architecture.
+
+<div align="center">
+  <a href="https://github.com/pray3m" style="margin-right: 10px;">
+    <img src="https://img.shields.io/github/followers/pray3m?label=Follow%20Me&style=social" alt="Follow Me on GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/pray3m" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:m.prem.gtm9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail" alt="Contact Me via Email"/>
+  </a>
+</div>
+
+#### 💼 Visit my [portfolio](https://premgautam.com.np) to explore my work.
+
+#### 📝 My Resume
+
+---
+
+## 🛠 Technical Expertise
+
+```typescript
+const techStack = {
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+  backend: ["Node.js", "Express", "NestJS", "Prisma"],
+  databases: ["MongoDB", "MySQL"],
+  tools: ["Git", "Docker"],
+};
+```
+
+---
+
+## 🔭 Current Focus
+
+- **Building scalable backends** with NestJS.
+- **Creating dynamic apps** using Next.js.
+- **Optimizing DevOps** with Docker and VPS (AWS).
+- **Contributing to open-source** projects.
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,express,nest,mongodb,nextjs,git,prisma,docker&theme=dark" alt="tech stack" />
+
+## 🚀 Quick Launch
+
+**Prerequisite:** [Node.js](https://nodejs.org/) installed.
+
+```bash
+npm install -g pray3m
+pray3m
+```
+
+OR
+
+```bash
+npx pray3m
+```
+
+<div align="center">
+<img width="750" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
+</div>
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pray3m&show_icons=true&locale=en&layout=compact&card_width=445&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Most Used Languages" />
+</div>
+  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pray3m&hide_border=false&border=0097B2&border_radius=5&card_width=445&background=151920&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects or discussing technology.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_Gautam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pray3m/)
+[![Email](https://img.shields.io/badge/Email-m.prem.gtm9@gmail.com-red?style=flat-square&logo=gmail)](mailto:m.prem.gtm9@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-onlyprems-blue?style=flat-square&logo=telegram)](https://t.me/onlyprems)
+[![Portfolio](https://img.shields.io/badge/Portfolio-premgautam.com.np-green?style=flat-square&logo=vercel)](https://premgautam.com.np)
+
+## </div>
+
+<div align="center">
+<img width="650" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
+</div>
