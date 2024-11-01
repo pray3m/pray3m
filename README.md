@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
 <!--
   <img width="350" src=" https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Banner Image"/> -->
 
-  <img width="250" src=" https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
+  <img width="250" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
  
   <br/> 
   
   [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
 </div>
 
----
+--
 
 ## 🌟 About Me
 
@@ -40,7 +40,7 @@ I'm a software engineer focused on building scalable web applications and intuit
 
 #### 📝 My Resume
 
----
+--
 
 ## 🛠 Technical Expertise
 
@@ -53,7 +53,7 @@ const techStack = {
 };
 ```
 
----
+--
 
 ## 🔭 Current Focus
 
@@ -62,7 +62,7 @@ const techStack = {
 - **Optimizing DevOps** with Docker and VPS (AWS).
 - **Contributing to open-source** projects.
 
----
+--
 
 ## 💻 Tech Stack
 
@@ -98,7 +98,7 @@ npx pray3m
   <img src="https://streak-stats.demolab.com?user=pray3m&hide_border=false&border=0097B2&border_radius=5&card_width=445&background=151920&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
----
+--
 
 ## 🤝 Let's Connect
 
