@@ -1,11 +1,42 @@
 {
   "name": "pray3m",
   "version": "1.0.0",
-  "description": "<div align=\"center\">   <img height=\"150\" src=\"https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966\"  /> <br/>",
-  "main": "index.js",
+  "description": "CLI Portfolio for Prem Gautam",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "pray3m": "./bin/pray3m.js"
+  },
   "scripts": {
+    "start": "node bin/pray3m.js",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Prem Gautam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pray3m/pray3m.git"
+  },
+  "keywords": [
+    "cli",
+    "portfolio",
+    "developer",
+    "premgautam"
+  ],
+  "homepage": "https://premgautam.com.np",
+  "bugs": {
+    "url": "https://github.com/pray3m/pray3m/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "inquirer": "^12.0.1",
+    "open": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "@types/open": "^8.4.3",
+    "typescript": "^5.1.6"
+  }
 }
