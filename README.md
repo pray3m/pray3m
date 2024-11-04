@@ -70,6 +70,8 @@ const techStack = {
 
 ## 🚀 Quick Launch
 
+[![npm package](https://github.com/pray3m/pray3m/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/pray3m/pray3m/actions/workflows/npm-publish.yml)
+
 **Prerequisite:** [Node.js](https://nodejs.org/) installed.
 
 ```bash
