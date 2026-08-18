@@ -3,7 +3,7 @@ pray3m/pray3m is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-### <h3 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">Prem Gautam</a> 〽️ </h3>
+### <h3 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.me/" target="_blank">Prem Gautam</a> 〽️ </h3>
 
 <h5 align="center">  Full Stack Developer | MERN Specialist</h5>
 <div align="center">
@@ -36,7 +36,7 @@ I'm a software engineer focused on building scalable web applications and intuit
   </a>
 </div>
 
-#### 💼 Visit my [portfolio](https://premgautam.com.np) to explore my work.
+#### 💼 Visit my [portfolio](https://premgautam.me) to explore my work.
 
 #### 📝 My Resume
 
@@ -111,7 +111,7 @@ I'm always interested in collaborating on innovative projects or discussing tech
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_Gautam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pray3m/)
 [![Email](https://img.shields.io/badge/Email-m.prem.gtm9@gmail.com-red?style=flat-square&logo=gmail)](mailto:m.prem.gtm9@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-onlyprems-blue?style=flat-square&logo=telegram)](https://t.me/onlyprems)
-[![Portfolio](https://img.shields.io/badge/Portfolio-premgautam.com.np-green?style=flat-square&logo=vercel)](https://premgautam.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-premgautam.me-green?style=flat-square&logo=vercel)](https://premgautam.me)
 
 ## </div>
 
