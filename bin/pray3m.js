@@ -6,9 +6,17 @@ import { Command } from "commander";
 import figlet from "figlet";
 import gradient from "gradient-string";
 import inquirer from "inquirer";
+import { createRequire } from "node:module";
 import { about, projects } from "../src/index.js";
 
+const require = createRequire(import.meta.url);
+const { version } = require("../package.json");
 const program = new Command();
+
+program
+  .name("pray3m")
+  .description("CLI portfolio for Prem Gautam")
+  .version(version);
 
 // Function to display ASCII Art Banner
 const displayBanner = () => {
@@ -72,7 +80,9 @@ if (!process.argv.slice(2).length) {
             break;
           case "contact":
             console.log(
-              chalk.green.bold("\nYou can contact me at premgautam.com.\n")
+              chalk.green.bold(
+                "\nEmail: m.prem.gtm9@gmail.com\nPortfolio: https://premgautam.me\n"
+              )
             );
             break;
           case "exit":
